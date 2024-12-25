@@ -1,0 +1,4 @@
+Mongo Db
+Express Js
+React Js
+Node Js
